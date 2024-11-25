@@ -49,6 +49,8 @@ I'm an IT Project Manager and Lead Software Engineer with over 10 years of exper
 
 - 🌐 Portfolio: [hanmyohtwe.github.io](https://hanmyohtwe.github.io)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hanmyohtwe&theme=dark-minimalist)](https://git.io/streak-stats)
+
 ### ⚡ Fun Fact
 
 When I'm not managing projects or coding, I enjoy photography, exploring new destinations, and sipping on a good cup of coffee. My experience in the airline industry has only fueled my love for travel and adventure! ✈️
